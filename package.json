@@ -1,0 +1,23 @@
+{
+  "name": "@changyan/dumb-state",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-dev": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyan33/dumb-state.git"
+  },
+  "author": "Chang Yan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyan33/dumb-state/issues"
+  },
+  "homepage": "https://github.com/cyan33/dumb-state#readme",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
+}
